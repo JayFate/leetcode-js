@@ -10,7 +10,7 @@ O(1), O(log n), O(n), O(n log n), O($n^2$) ,「 O($n^3$) , O($2^n$) , O(n!) ... 
 
 每一种复杂度的增长趋势如下图
 
-<img src="/Users/pj/Library/Application Support/typora-user-images/image-20230115004006569.png" alt="image-20230115004006569" style="zoom:40%;" />
+<img src="./images/image-20230115004006569.png" alt="image-20230115004006569" style="zoom:40%;" />
 
 二分搜索 O(log n)
 
