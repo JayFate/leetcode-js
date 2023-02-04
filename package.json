@@ -1,0 +1,26 @@
+{
+  "name": "leetcode-js",
+  "version": "1.0.0",
+  "description": "```txt /Users/pj/Library/Application Support/typora-user- // -> ./ ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "concurrently \"npx markserv\" \"node app.js\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "http-proxy": "^1.18.1",
+    "markserv": "^1.17.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayFate/leetcode-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayFate/leetcode-js/issues"
+  },
+  "homepage": "https://github.com/JayFate/leetcode-js#readme"
+}
